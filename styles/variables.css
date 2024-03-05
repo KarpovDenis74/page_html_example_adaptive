@@ -1,0 +1,16 @@
+:root {
+  --font: "Inter-Variable" , sans-serif;
+  --font-weight: 400;
+  --font-weight-bold: 700;
+  --radius: 10px;
+  --radius-button: 5px;
+  --padding-1: 1%;
+  --padding-2: 2%;
+}
+
+@media (375px < width) {
+  :root {
+    /* --title-top-pad: 7px;
+    --title-bottome-pad: 7px; */
+  }
+}
